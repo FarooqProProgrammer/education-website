@@ -10,6 +10,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary:"#f9e0ae",
+        primaryButton:'#c24914',
+        muted:"rgba(0, 0, 0, 0.46)",
+        secondaryButton:'#682c0e'
       },
     },
   },
